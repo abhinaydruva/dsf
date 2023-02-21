@@ -27,7 +27,7 @@ int main(){
       cout << "=" << num1*num2 << endl;
     }
     else if( input == "divide" ){
-      cout << "=" << num1/num2 << endl
+      cout << "=" << num1/num2 << endl;
     }
       
   }
